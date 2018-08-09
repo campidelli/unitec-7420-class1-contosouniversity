@@ -1,0 +1,12 @@
+C:\Users\campib01\source\repos\unitec-7420-class1-contosouniversity\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.deps.json
+C:\Users\campib01\source\repos\unitec-7420-class1-contosouniversity\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.json
+C:\Users\campib01\source\repos\unitec-7420-class1-contosouniversity\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.dev.json
+C:\Users\campib01\source\repos\unitec-7420-class1-contosouniversity\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.dll
+C:\Users\campib01\source\repos\unitec-7420-class1-contosouniversity\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.pdb
+C:\Users\campib01\source\repos\unitec-7420-class1-contosouniversity\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.csprojResolveAssemblyReference.cache
+C:\Users\campib01\source\repos\unitec-7420-class1-contosouniversity\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\Users\campib01\source\repos\unitec-7420-class1-contosouniversity\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\campib01\source\repos\unitec-7420-class1-contosouniversity\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfoInputs.cache
+C:\Users\campib01\source\repos\unitec-7420-class1-contosouniversity\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfo.cs
+C:\Users\campib01\source\repos\unitec-7420-class1-contosouniversity\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.dll
+C:\Users\campib01\source\repos\unitec-7420-class1-contosouniversity\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.pdb
