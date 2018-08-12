@@ -1,6 +1,11 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Threading.Tasks;
 using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.DependencyInjection;
 using ContosoUniversity.Data;
@@ -12,8 +17,9 @@ namespace ContosoUniversity
         public static void Main(string[] args)
         {
             //BuildWebHost(args).Run();
+            var host = BuildWebHost(args); //Added in Week 1
 
-            var host = BuildWebHost(args);
+            //Added for Week 1
             using (var scope = host.Services.CreateScope())
             {
                 var services = scope.ServiceProvider;
@@ -28,7 +34,8 @@ namespace ContosoUniversity
                     logger.LogError(ex, "An error occurred while seeding the database.");
                 }
             }
-            host.Run();
+
+            host.Run(); //Added for Week 1
         }
 
         public static IWebHost BuildWebHost(string[] args) =>
